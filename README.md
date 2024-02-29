@@ -1,9 +1,9 @@
 # Locker-System
 A simple locker system implemented on AVR microcontroller. Features password setting, authentication, and feedback display on an LCD screen.
 ## The System consists of 
-• ATMEGA32
-• Keypad
-• LCD Display
+- ATMEGA32
+- Keypad
+- LCD Display
 ## Features
 • Set and check passwords for accessing the locker.
 • Visual feedback through an LCD display.
