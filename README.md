@@ -5,10 +5,10 @@ A simple locker system implemented on AVR microcontroller. Features password set
 - Keypad
 - LCD Display
 ## Features
-• Set and check passwords for accessing the locker.
-• Visual feedback through an LCD display.
-• Block access after a certain number of failed attempts.
-• Simple and intuitive user interface.
+- Set and check passwords for accessing the locker.
+- Visual feedback through an LCD display.
+- Block access after a certain number of failed attempts.
+- Simple and intuitive user interface.
 ## Installation and Usage
 1. Clone the repository to your local machine.
 2. Build the source code using your preferred AVR-GCC compiler.
